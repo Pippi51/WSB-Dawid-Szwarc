@@ -1,7 +1,5 @@
 # NativeScript for Angular
 
-<img alt="tutorial app preview" src="../screenshots/tutorial-example-app-preview.png" width="500">
-
 ## Development
 
 This app is built with the NativeScript CLI. Once you have the [CLI installed](https://docs.nativescript.org/start/quick-setup), start by cloning the repo: 
