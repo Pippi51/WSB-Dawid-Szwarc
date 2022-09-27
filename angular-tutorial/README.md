@@ -4,7 +4,7 @@
 
 ## Development
 
-This app is built with the NativeScript CLI. Once you have the [CLI installed](https://docs.nativescript.org/start/quick-setup), start by cloning the repo:
+This app is built with the NativeScript CLI. Once you have the [CLI installed](https://docs.nativescript.org/start/quick-setup), start by cloning the repo: 
 
 ```
 npm i -g nativescript
